@@ -1,0 +1,5 @@
+Work_02 - Regressão Linear
+
+https://github.com/lucileidedantas/Works_ML/tree/master/Work_02%20-%20Regress%C3%A3o%20Linear
+
+Lucileide M. Dantas da Silva
